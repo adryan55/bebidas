@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+}
+
+.encabezado
+{
+ margin: 10px;   
+}
+
+.banner
+{
+    /**background-color: red;*/
+    height: auto;
+    width: auto;
+}
+
+.banner img
+{
+    height: 100%;
+    width: 100%;
+}
+
+.banner h1 p
+{
+    color: white;
+}
+
+.banner button
+{
+    background: red;
+    color: white;
+}
+
+#nosotros img
+{
+    height: 220px;
+    width: 120em;
+}
+
+section #servicios
+{
+    flex-direction: row;
+    justify-content: center;
+}
+
+#servicios button
+{
+    background: white;
+    color: red;
+    border-color: red;
+}
+
+div .servicio .servicio2 .servicio3
+{
+    border-color: black;
+}
+
+footer #redes
+{
+    background-color: black;
+}
+
+footer
+{
+    border: red;
+}
